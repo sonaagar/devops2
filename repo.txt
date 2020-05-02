@@ -1,0 +1,6 @@
+steps for creating a repo on github:
+create a file on system
+open github>create account>click on either '+' sign or 'new' to create a new repository
+fill the repo name
+tick the "initialize with README"
+click on upload files ad upload the saved files
