@@ -4,3 +4,4 @@ open github>create account>click on either '+' sign or 'new' to create a new rep
 fill the repo name
 tick the "initialize with README"
 click on upload files ad upload the saved files
+add a commit name
