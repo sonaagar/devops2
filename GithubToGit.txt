@@ -1,0 +1,11 @@
+uploading file from github(CVCS) to local system(git)
+steps:
+git clone HTTP_URL_of_repo
+git log file_name
+git status
+git add filename
+git commit filename -m ""comment"
+git push
+#to role back
+git reset "CommitID"  file              #commit Id of the file you wish to roll back to
+git checkout -- file            
