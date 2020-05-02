@@ -8,4 +8,5 @@ git commit filename -m ""comment"
 git push
 #to role back
 git reset "CommitID"  file              #commit Id of the file you wish to roll back to
-git checkout -- file            
+git checkout -- file            helllo 
+i edited this
